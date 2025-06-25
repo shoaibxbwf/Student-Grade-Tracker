@@ -101,9 +101,8 @@ students.txt
 
 ## 👨‍💻 Author
 
-- **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Submitted to: *Your Institution / Teacher / Course*
+- **MD AMIR SHOAIB**
+- GitHub: [@shoaibxbwf](https://github.com/shoaibxbwf)
 
 ---
 
