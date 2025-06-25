@@ -1,0 +1,22 @@
+# Ignore compiled class files
+*.class
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore text file used for storage
+students.txt
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*~
+
+# Ignore Java backup files
+*.bak
